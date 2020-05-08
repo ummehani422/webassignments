@@ -1,0 +1,16 @@
+p{
+    text-align: center;
+    text-decoration: white;
+    color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-seri;
+   font-size: 70px;
+}
+button{
+    text-decoration: underline;
+    color: white;
+    font-size: 70px;
+
+}
+*{
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058__340.png);
+}

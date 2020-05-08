@@ -1,0 +1,285 @@
+.first{
+    background-color: white;
+ 
+}
+.topbar{
+    display: flex;
+   
+    height: 3em;
+    width:auto;
+    background-color: rgb(49, 109, 195);
+  
+}
+.ib{
+    
+    margin: 10px 0px 0px 100px;
+}
+.icons{
+    height: 1em;
+    /* margin: 1em 0em 1em 5.5em; */
+    margin: 0.5em;
+
+    
+}
+.icons:hover{
+    background-color: skyblue;
+}
+.para1{
+   
+
+    margin-left: 9em;
+    margin-top: 1em;
+    font-style: italic;
+    color: white;
+   
+}
+.topbuttons{
+ 
+    margin-left: 8em;
+    margin-top: 1em;
+
+  
+}
+.buttons{
+ font-size: 12px;
+    background-color: white;
+    border: 1px solid;
+    
+    color: green;
+    padding:4px;
+    text-decoration: none;
+}
+.secondbar{
+    background-color: whitesmoke;
+  position: absolute;
+    height: 4em;
+}
+.logo{
+    margin-left: 3em;
+   
+}
+.one
+{
+    height: 3em;
+    margin-top: 0.5em;
+
+}
+.baritems{
+    margin-left: 22em;
+}
+ul{
+    display: flex;
+    align-items: center;
+}
+.item1{
+   
+    font-size: 20px;
+    border-radius: 30px;
+    display: inline;
+    margin-top: 1em;
+}
+a.home{
+    color: white;
+    background-color: rgb(49, 109, 195);
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 5px 5px;
+   
+}
+.item2{
+    display: inline;
+    margin-left: 2em;
+    margin-top: 1em;
+}
+a.two{
+    color: black;
+    text-decoration: none;
+    border-radius: 30px;
+    background-color: white;
+    padding: 5px 5px;
+    
+}
+a.two:hover{
+    background-color: #316DC3;
+    color: white;
+    text-decoration: none;
+}
+.slider{
+    height:2em;
+    width:1200px;
+  background-color: rgb(97, 145, 212);
+  margin: 15px 70px 5px 55px;
+  }
+  /* marque{
+  animation-direction:right;
+    
+    } */
+    .intro{
+        padding-left: 33em;
+        padding-top: 4em;
+       
+    }
+    .smallicon{
+        padding-left: 35.5em;
+    }
+  .bluediv{
+      background-color:rgb(62, 125, 212) ;
+     
+      text-align: center;
+      margin: 0;
+      padding: 10px;
+  }
+    .innerdiv{
+        margin: 20px auto;
+        padding: 20px 40px;
+    }.C{
+        display: inline-block;
+        align-items: center;
+        text-align: center;
+        padding: 10px 15px;
+        margin: 0 20px;
+        
+    
+    }
+    .num{
+        color: white;
+        font-family: Merriweather, serif;
+        font-weight: 600 !important;
+        font-size: 3rem !important;
+        letter-spacing: 2px;
+    }
+    h6{
+        color: white;
+        font-family: Merri;
+        font-size: 14px !important;
+        font-weight: 600 !important;
+    }
+    .box1,.box2,.box3,.box4,.box5,.box6{
+        display: inline-block !important;
+        float: justify;
+        text-align: center;
+        padding: 50px;
+        margin: 10px;
+        width: 300px;
+        background-color: white;
+        box-shadow: 0px 8px 30px 0px rgba(0, 0, 0, 0.16);
+       
+    }
+    .primary-cont{
+        text-align: center;
+        padding-top: 3em;
+    }
+    .D{
+        padding-top: 3em;
+        padding-left: 5em;
+    }
+    .f-box1,.f-box2,.f-box3,.f-box4{
+        display: inline-block;
+        background-color: #f7f8fa;
+        width: 300px;
+        float: justify;
+        margin: 10px;
+        padding: 20px;
+        box-shadow: 0 1px 2px 0px rgba(0, 0, 0, 0.16);;
+    
+    }
+  .mission{
+    font-family: Merribold;
+    color: #2755E9;
+    font-size: 24px;
+    font-weight: 700;
+}
+.projects-heading{
+    display: inline-block;
+    font-size: 18px;
+    font-family: Merribold;
+    margin-left: 25px;
+
+}
+.fifthdiv{
+    padding:20px 50px;
+    margin: 50px;
+    display: flex;
+    
+}
+.six-div{
+    margin-left: 50pxt;
+ display: inline;
+}
+.fiftha{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 130px;
+}
+.hoverimg:hover{
+    width: 280px;
+}
+.hoverimg{
+    transition: 1s;
+}
+.fifth-cont{
+    margin-bottom: 80px;
+}
+.sixth-cont{
+    background-color: #25272E;
+    padding: 60px 20px;
+    /* float: right; */
+    width: 100%;
+    display: flex;
+    padding-top: 3em;
+
+}
+.info{
+    list-style: none;
+    color: #B3B3B4;
+    display: block !important;
+    line-height: 1.5em;
+}
+.last-heading{
+    font-family: Merriregular !important;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 440px;
+}
+li{
+    display: block;
+}
+.last-para{
+    color: #B3B3B4;
+    margin-left: 40px;
+
+}
+.sixtha{
+    margin-left:20px;
+    /* width: 50%; */
+    
+}
+.sixthb{
+    /* width: 50%; */
+    display: flex;
+    margin-left: 260px;
+}
+.last-heading2{
+    font-family: Merriregular !important;
+    font-size: 18px;
+    text-align: center;
+    /* margin-left: 440px; */
+}
+.last-icons{
+    list-style: none;
+    align-items: unset !important;
+    margin-top: 14px !important;
+    padding: 5px !important;
+    position: relative;
+    right: 70px;
+}
+.footer-bottom{
+    background-color: #316DC3;
+}
+.last-line{
+    font-family: Merriregular;
+    font-size: 12px!important;
+    padding: 20px;
+    padding-left: 80px;
+    margin: 0!important;
+}
